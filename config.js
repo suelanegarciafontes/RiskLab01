@@ -1,6 +1,6 @@
 // Cole aqui os dados públicos do seu projeto Supabase.
 // Supabase > Project Settings > API
 window.RISKLAB_CONFIG = {
-  supabaseUrl: 'COLE_AQUI_A_URL_DO_SUPABASE',
-  supabaseAnonKey: 'COLE_AQUI_A_CHAVE_ANON_PUBLICA'
+  supabaseUrl: 'https://kewmaegxvrzkbylsjfjf.supabase.co/rest/v1/',
+  supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtld21hZWd4dnJ6a2J5bHNqZmpmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQyNDUyMTgsImV4cCI6MjA5OTgyMTIxOH0.bjdpoT7xIJ06K3j1E2VRS_6_8rqIkNTUTz5BXVaMuqU'
 };
