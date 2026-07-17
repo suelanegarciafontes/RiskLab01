@@ -2,4 +2,4 @@
 // Supabase > Project Settings > API
 window.RISKLAB_CONFIG = {
   supabaseUrl: 'https://kewmaegxvrzkbylsjfjf.supabase.co/rest/v1/',
-  supabaseAnonKey: 'sb_publishable_aWTyXsOubV7Q20fennRb-w_-9IvyAcJ';
+  supabaseAnonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imtld21hZWd4dnJ6a2J5bHNqZmpmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQyNDUyMTgsImV4cCI6MjA5OTgyMTIxOH0.bjdpoT7xIJ06K3j1E2VRS_6_8rqIkNTUTz5BXVaMuqU';
